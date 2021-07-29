@@ -1,0 +1,17 @@
+constructor
+
+Mounting Phase
+    comp will Mount
+    render
+    comp did Mount
+
+Incoming Props or State variable changes on click of a button
+    Its built such a way that now it will re-render. I shd stop this based on a condition.
+
+    should comp update
+    comp will update
+    render
+    comp did update
+
+
+Comp will unmount        
